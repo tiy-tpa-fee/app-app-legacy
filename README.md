@@ -10,6 +10,8 @@ cd my-project-name
 
 trash .git
 
+npm install
+
 git init
 
 // Do your thing...
