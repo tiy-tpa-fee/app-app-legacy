@@ -2,19 +2,15 @@
 
 The Boilerplate.
 
-## How you do this?
+## How do you use this?
 
-```sh
-npm install -D eslint \
-  eslint-config-standard \
-  eslint-plugin-promise \
-  eslint-plugin-standard
+```
+git clone git@github.com:tiy-tpa-fee/app-app.git my-project-name
+cd my-project-name
 
-npm install --D webpack
+trash .git
 
-npm install -D html-webpack-plugin
+git init
 
-npm install -D sass-loader node-sass
-
-npm install -D eslint eslint-config-standard eslint-config-standard-react eslint-plugin-standard eslint-plugin-promise eslint-plugin-react
+// Do your thing...
 ```
